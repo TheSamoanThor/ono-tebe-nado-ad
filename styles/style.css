@@ -167,8 +167,8 @@ body {
 }
 
 .lots__card-list-item {
-  width: 334px; 
-  height: 596px; 
+  width: 334px;
+  height: 596px;
 }
 
 .card-link {
@@ -231,7 +231,7 @@ body {
   display: grid;
   grid-template-columns: 334px 1fr;
   gap: 25px;
-  margin: 0px 24px 180px 24px;  
+  margin: 0px 24px 180px 24px;
 }
 
 .about__column {
@@ -295,7 +295,7 @@ body {
 
 .footer__menu-list {
   list-style: none;
-  margin: 0;  
+  margin: 0;
   padding: 0;
   text-align: center;
 }
